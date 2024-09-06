@@ -18,7 +18,6 @@ import org.apache.camel.model.dataformat.JsonLibrary;
  *
  * Disclaimer: No databases were harmed in the making of this route.
  *
- * @author Rajat Nigam
  */
 @ApplicationScoped
 public class IngestionRoute extends RouteBuilder {
